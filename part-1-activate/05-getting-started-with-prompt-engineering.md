@@ -1,6 +1,6 @@
 # Chapter 5 · Getting Started with Prompt Engineering
 
-**Part 1 — Activate** · Instructor: Janani Ravi · [← Previous chapter](04-deep-learning-and-neural-networks.md) · [Back to contents](../README.md) · Next chapter: *Exploring Prompt Engineering Techniques (coming soon)*
+**Part 1 — Activate** · Instructor: Janani Ravi · [← Previous chapter](04-deep-learning-and-neural-networks.md) · [Back to contents](../README.md) · [Next chapter →](06-exploring-prompt-engineering-techniques.md)
 
 > **About this chapter:** Much of this course is hands-on demos of ChatGPT, Google Bard, Bing Chat, and Perplexity AI. This chapter captures the **lessons and observations** from those demos. Tool features, models, prices, and limits are recorded **as described at the time the course was recorded**. The instructor stresses that these tools change quickly. The course also notes that you aren't expected to create accounts on these platforms; the principles apply to any corporate conversational AI chatbot.
 
@@ -375,4 +375,4 @@ Bing (in Preview at the time) let you **choose a conversation style**:
 
 *Source: course transcript "Getting Started with Prompt Engineering" (15 videos). All product details are as described when the course was recorded and may have changed since.*
 
-[← Previous chapter](04-deep-learning-and-neural-networks.md) · [Back to contents](../README.md)
+[← Previous chapter](04-deep-learning-and-neural-networks.md) · [Back to contents](../README.md) · [Next chapter →](06-exploring-prompt-engineering-techniques.md)

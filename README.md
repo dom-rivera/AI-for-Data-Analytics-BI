@@ -1,6 +1,6 @@
 # AI for Data Analytics & BI: Learning Notes
 
-This repo is the single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language, built only from that course's transcript.
+My single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language, built only from that course's transcript.
 
 **Journey syllabus:** 15 courses · 2 labs · 6 other items (Skill Benchmarks, an AI Simulator, interactive courses)
 
@@ -11,7 +11,7 @@ This repo is the single source of truth for the **AI for Data Analytics & BI** l
 - **Read in order.** Chapters follow the course sequence, and later chapters build on earlier ones.
 - **Every chapter has the same layout:** *At a glance* → topic sections → *Key terms* table.
 - **Skill Benchmarks** are assessments with no lessons, so they're listed for sequence only.
-- **Faithful to the course:** Nothing is added beyond what the course tell.
+- **Faithful to the course:** Nothing is added beyond what the transcripts say. Where a transcript contains an apparent slip or two courses disagree, it's flagged in the chapter instead of silently "fixed". Product details (models, prices, features) are recorded as described when the courses were recorded.
 
 ---
 
@@ -28,8 +28,8 @@ This repo is the single source of truth for the **AI for Data Analytics & BI** l
 | 3 | [Artificial Intelligence and Machine Learning](part-1-activate/03-artificial-intelligence-and-machine-learning.md) | Course | ✅ Done |
 | 4 | [Deep Learning and Neural Networks](part-1-activate/04-deep-learning-and-neural-networks.md) | Course | ✅ Done |
 | 5 | [Getting Started with Prompt Engineering](part-1-activate/05-getting-started-with-prompt-engineering.md) | Course | ✅ Done |
-| 6 | Exploring Prompt Engineering Techniques | Course | ⏳ Coming soon |
-| 7 | Case Studies in Prompt Engineering | Course | ⏳ Coming soon |
+| 6 | [Exploring Prompt Engineering Techniques](part-1-activate/06-exploring-prompt-engineering-techniques.md) | Course | ✅ Done |
+| 7 | [Case Studies in Prompt Engineering](part-1-activate/07-case-studies-in-prompt-engineering.md) | Course | ✅ Done |
 | 8 | Considerations for Using AI Responsibly | AI Simulator | ⏳ Coming soon |
 
 ### Part 2 — Accelerate
@@ -67,6 +67,7 @@ This repo is the single source of truth for the **AI for Data Analytics & BI** l
 | Date | Update |
 |---|---|
 | 2026-10-30 | Added Part 1, Chapters 1–5 |
+| 2026-10-30 | Added Part 1, Chapters 6–7 |
 
 ---
 
