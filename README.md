@@ -1,6 +1,6 @@
 # AI for Data Analytics & BI: Learning Notes
 
-My single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language, built only from that course's transcript.
+This repo is the single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language, built only from that course's transcript.
 
 **Journey syllabus:** 15 courses · 2 labs · 6 other items (Skill Benchmarks, an AI Simulator, interactive courses)
 
