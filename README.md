@@ -1,6 +1,6 @@
 # AI for Data Analytics & BI: Learning Notes
 
-My single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language, built only from that course's transcript.
+The repository is the single source of truth for the **AI for Data Analytics & BI** learning journey (Skillsoft Aspire Journeys). Each chapter summarizes one course in plain language.
 
 **Journey syllabus:** 15 courses · 2 labs · 6 other items (Skill Benchmarks, an AI Simulator, interactive courses)
 
@@ -11,7 +11,7 @@ My single source of truth for the **AI for Data Analytics & BI** learning journe
 - **Read in order.** Chapters follow the course sequence, and later chapters build on earlier ones.
 - **Every chapter has the same layout:** *At a glance* → topic sections → *Key terms* table.
 - **Skill Benchmarks** are assessments with no lessons, so they're listed for sequence only.
-- **Faithful to the course:** Nothing is added beyond what the transcripts say. Where a transcript contains an apparent slip or two courses disagree, it's flagged in the chapter instead of silently "fixed". Product details (models, prices, features) are recorded as described when the courses were recorded.
+- **Faithful to the course:** Nothing is added beyond what the course say.
 
 ---
 
